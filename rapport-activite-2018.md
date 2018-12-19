@@ -5,7 +5,55 @@ keywords: X article literature communication
 author: Marc Chantreux <marc.chantreux@renater.fr>
 ---
 
-# Introduction
+# ULPMM
+
+* architecture, développement, support utilisateur et exploitation d'un
+  système de bureau à distance utilisant les SSO web
+* architecture, développement, support utilisateur et exploitation d'un
+  ENT
+
+# SICD
+
+* developpement d'un ETL et d'un système de verification de qualité de notices
+  bibliographiques et authorités.
+* developpement d'un système de déploiement et de suivi d'applications sur des postes
+  windows
+* architecture et déploiement d'un système d'information permettant la fusion
+  de 3 SI de gestion historiques
+* formation de 5 techniciens et ingénieurs à l'administration des systèmes
+  linux (debian)
+
+# Biblibre
+
+je ne sais pas si le privé a un intéret. j'étais spécialiste de migration de données infodoc
+
+# Linkfluence
+
+je ne sais pas si le privé a un intéret. j'étais responsable de la mise en
+place des outils méthodologiques et technologiques pour la QA
+
+# Responsable d'application
+
+* développer et maintenir des scripts d'exploitation.
+* assurer le support, l'assistance et le conseil des utilisateurs via le suport N2.
+* assister le COT (comité organisationel technique) de la DSI (Direction du
+  Système d'Information) pour l'évolution et la mise en application des règles
+  de gestion de la platteforme.
+* impliquer unistra dans la vie de la communauté sympa grace à la mise en place
+  d'une formation utilisateur dispensée régulièrement par la formation continue
+  et l'accueil des workshops nationaux des adminstrateurs de plateforme avec la
+  collaboration de RENATER.
+
+la profusion des services se faisant au détriment de la qualité de la
+production et du service utilisateur, j'ai souhaité une nouvelle affectation
+
+# Développeur/Intégrateur d'applications
+
+* réflexions sur la mise en place d'outils méthodologiques et techniques relatifs à la QA logicielle
+* participation au développement et à la maintenance des applications développées en interne.
+* MAJ d'une application (corrections fonctionnelles et passage de Django 1.* à 1.*)
+
+# Floss Evangelist et développeur Sympa chez RENATER (MAD)
 
 J'ai intégré RENATER en Octobre 2017 (mis à disposition par
 l'université de Strasbourg) suite à mon investissement dans la
@@ -24,11 +72,39 @@ améliorer
   technique du logiciel libre Sympa.
 
 En premier lieu, il appartenait à mon SHD et à moi-même de décliner
-ces grandes thématiques sous la forme d'objectifs et de livrables,
-conformes aux intérets et aux moyens de RENATER, de décliner un
+ces grandes thématiques sous la forme d'objectifs et de livrables
+conformes aux intérets et aux moyens de RENATER, de proposer un
 calendrier et de le présenter à notre direction.
 
 # Stratégies
+
+## Dynamisation
+
+Pour permettre de fixer des objectifs raisonables (et sauf demandes explicites
+de la direction), j'ai limité le périmètre de valorisation aux logiciels pour
+lesquels RENATER s'implique pour le développement et la gouvernance (Sympa,
+moment, filesender), la priorité étant Sympa.
+
+L'objectif fixé est de permettre et/ou faciliter l'implication de ressources
+externes à toute activité relative à la vie du logiciel (promotion, formation,
+support, gouvernance, développement, ... ), d'identifier et activer les
+synergies avec les différents acteurs et tenter d'impliquer des partenaires
+
+de ressources externes à RENATER
+les prises de décision
+
+Dans un premier temps, j'ai limité le périmètre à valoriser sur la base
+des 
+
+
+J'ai limité le périmètre
+
+
+
+Nous axons la dynamisation des communautés des logiciels
+
+
+ Synergie
 
 ## Valorisation
 
@@ -37,10 +113,6 @@ Le tissu associatif
 * capacité d'anticipation
 * structures plus dynamiques
 -> Framasoft: 1 jour par semaine, chatons: co-organisateurs de sympa-days
-
-## Dynamisation
-
-### Synergie
 
 ### Gouvernance
 
@@ -57,8 +129,6 @@ Par la disponilibité de
 
 
 J'ai identifié trois grandes audiences prioritaires dans les actiosn
-
-
 
 Afin de nous faire connaitre auprès des acteurs du secteur public, nous sommes
 
@@ -91,8 +161,6 @@ s'aquittant de sa mission de service public
 que RENATER
 
 
-
-
 ### les outils dont nous avons besoin (Paris Open Source Summit)
 
 Devant les "Blue Hats, hackers d’intérêt général" (initiative de la DINSIC
@@ -106,7 +174,8 @@ publics manquent encore de compétences pour le pilotage des projets libres et
 nous (la communauté blue hat) manquons de moyens pour les aider. j'ai conclus
 en lançant des pistes de réflexion sur la sensibilisation de nos politiques.
 
-### les outils dont nous avons besoin (Paris Open Source Summit)
+### Back to perl (The European Perl Conference 2018, Glasgow)
+
 
 étaient majoritairement
 des coûts relatifs à la qualité générale du code et de ces méthodes de production
@@ -143,8 +212,6 @@ Rendre compte
 J'ai initialement défendu la stratégie d'une réécriture totale
 pour permettre
 
-
-
 J'étais initialement pour la réécriture pure et simple de Sympa
 
 Ces
@@ -154,8 +221,6 @@ correctement RENATER dans la gouvernance des logiciels qui lui
 
 se veulent être la transformation de la volonté RENATER de
 gérer au mieux les moyens qui sont mis à notre disposition.
-
-
 
 les meilleurs objectifs possibles pour REN
 
@@ -182,8 +247,6 @@ technique de RENATER a souhaité que je mette mon experience à
 son service sur deux axes:
 
 
-
-
 Evangelisation des méthodes et pratiques liées au logiciels libres dans
 la fonction publique
 
@@ -203,10 +266,6 @@ collaboration ma SHD, directrice du pôle Service Numériques
 Collaboratifs.
 
 
-
-
-
-
 larges qui sont
 
 dont
@@ -217,20 +276,8 @@ dont
 
 
 
-
-
 A ce titre, je suis consulté en interne pour des
 choix de licence
-
-
-
-
-RENATER m'a fait l'honneur de renouveler une
-RENATER
-Pour la 2ème année consécutive,
-
-
-Les missions que j'ai l'honneur
 
 JRES   2017 -
 Fosdem 2018 -
@@ -241,23 +288,7 @@ The Perl Conference -
 
 "The future of Sympa from mailing lists to social networks"
 
-
-
 "Our"
-
-"Liberté, Egalité, Fraternité"
-Libre dans la place 2018, Nancy
-
-"Les outils qui nous manquent"
-Libre dans la place 2018, Nancy
-
-"Back to perl"
-The European Perl Conference 2018, Glasgow
-
-Formations Sympa
-
-"Les outils qui nous manquent"
-
 
 Membre du conseil technique du consoritium OW2
 
@@ -268,3 +299,8 @@ Colaborateur DINSIC pour la rédaction de recommendations nationales pour les mo
 Intervenant sur le volet "stratégie de la liberation des codes source"
 de l'Action Nationale de Formation du CNRS, j'ai eu l'occasion de transmettre mon experience aux équipes
 
+# modulaire et réutilisable
+
+* renforcer les bonnes pratiques d'architecture et de design
+* générer de la contribution et réduire la base de code à maintenir
+* être cloud compliant
